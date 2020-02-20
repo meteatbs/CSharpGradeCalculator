@@ -1,0 +1,9 @@
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\bin\Debug\GradeCalculatorApproach.exe.config
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\bin\Debug\GradeCalculatorApproach.exe
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\bin\Debug\GradeCalculatorApproach.pdb
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\obj\Debug\GradeCalculatorApproach.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\obj\Debug\GradeCalculatorApproach.Form1.resources
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\obj\Debug\GradeCalculatorApproach.Properties.Resources.resources
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\obj\Debug\GradeCalculatorApproach.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\obj\Debug\GradeCalculatorApproach.exe
+C:\Users\metea\source\repos\GradeCalculatorApproach\GradeCalculatorApproach\obj\Debug\GradeCalculatorApproach.pdb
